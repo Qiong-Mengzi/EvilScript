@@ -1,0 +1,10 @@
+.vscode/
+tmp/
+
+# Executable Files
+*.exe
+*.out
+
+# Build
+bin/
+
